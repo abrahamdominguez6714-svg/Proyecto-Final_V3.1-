@@ -287,6 +287,7 @@ export default function Home() {
         <section className="hero">
           <div className="hero-copy">
             <div className="eyebrow"><span className="eyebrow-line" /> PERFUMERÍA SELECTA · GUADALAJARA</div>
+            <div className="eyebrow"><span className="eyebrow-line" /> Proyecto final de la materia Ingeniería de software - ABRAHAM DOMINGUEZ VALDEZ -215671408 </div>
             <h1>Deja una<br /><em>gran impresión.</em></h1>
             <p>Fragancias que hablan de ti, incluso antes de que digas una palabra.</p>
             <a className="hero-cta" href="#catalogo">Descubre tu fragancia <Icon name="arrow" size={17} /></a>
